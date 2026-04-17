@@ -12,4 +12,23 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
-}
+}// UC1 implementation
+// UC2 implementation
+// UC3 implementation
+// UC4 implementation
+// UC5 implementation
+// UC6 implementation
+// UC7 implementation
+// UC8 implementation
+// UC9 implementation
+// UC10 implementation
+// UC11 implementation
+// UC12 implementation
+// UC13 implementation
+// UC14 implementation
+// UC15 implementation
+// UC16 implementation
+// UC17 implementation
+// UC18 implementation
+// UC19 implementation
+// UC20 implementation
