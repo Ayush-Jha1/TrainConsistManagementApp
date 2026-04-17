@@ -18,3 +18,4 @@ public class Main {
 // UC4 implementation
 // UC5 implementation
 // UC6 implementation
+// UC7 implementation
